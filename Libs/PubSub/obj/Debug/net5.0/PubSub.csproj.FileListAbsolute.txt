@@ -1,0 +1,12 @@
+D:\Projects\Docker\exp30\mock_app\Libs\PubSub\bin\Debug\net5.0\PubSub.deps.json
+D:\Projects\Docker\exp30\mock_app\Libs\PubSub\bin\Debug\net5.0\PubSub.dll
+D:\Projects\Docker\exp30\mock_app\Libs\PubSub\bin\Debug\net5.0\ref\PubSub.dll
+D:\Projects\Docker\exp30\mock_app\Libs\PubSub\bin\Debug\net5.0\PubSub.pdb
+D:\Projects\Docker\exp30\mock_app\Libs\PubSub\obj\Debug\net5.0\PubSub.csprojAssemblyReference.cache
+D:\Projects\Docker\exp30\mock_app\Libs\PubSub\obj\Debug\net5.0\PubSub.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Docker\exp30\mock_app\Libs\PubSub\obj\Debug\net5.0\PubSub.AssemblyInfoInputs.cache
+D:\Projects\Docker\exp30\mock_app\Libs\PubSub\obj\Debug\net5.0\PubSub.AssemblyInfo.cs
+D:\Projects\Docker\exp30\mock_app\Libs\PubSub\obj\Debug\net5.0\PubSub.csproj.CoreCompileInputs.cache
+D:\Projects\Docker\exp30\mock_app\Libs\PubSub\obj\Debug\net5.0\PubSub.dll
+D:\Projects\Docker\exp30\mock_app\Libs\PubSub\obj\Debug\net5.0\ref\PubSub.dll
+D:\Projects\Docker\exp30\mock_app\Libs\PubSub\obj\Debug\net5.0\PubSub.pdb
